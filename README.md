@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently working in Java/Springboot
+Currently working as a Backend Developer in Experain.
+Mainly working in Java/Spring boot and AWS cloud services.
+Completed mtech CSE from IIIT Hyderabad.
 
 
 ## 🌐 Socials:
