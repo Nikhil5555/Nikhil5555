@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a Backend Developer in Experain.
+Currently working as a Software Engineer in Experain.
 Mainly working in Java/Spring boot and AWS cloud services.
 Completed mtech CSE from IIIT Hyderabad.
 
